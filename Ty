@@ -1,6 +1,7 @@
 <html> 
 <head>
 <h1>"oink</h1>
+<js> alert(test); </js>
 </header>
 
 </html>
